@@ -24,6 +24,9 @@ namespace MyWPFApp
         {
             //My comment
             InitializeComponent();
+            
+            
+            ////My comment - hEY I HAVE ALSO MODIFIED THIS
         }
     }
 }
